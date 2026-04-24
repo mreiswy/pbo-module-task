@@ -10,7 +10,7 @@ Proyek ini dibangun untuk mempraktikkan konsep-konsep inti OOP:
 * **Aggregation (Agregasi):** Relasi *has-a* antara `Sekolah` dan `Orang`. Sekolah menampung koleksi daftar warga sekolah, namun entitas individu tetap independen.
 * **Encapsulation (Enkapsulasi):** Penggunaan *access modifiers* secara ketat untuk melindungi data sensitif dan mengekspos fungsi hanya melalui *public methods*.
 
-## 📂 Struktur Hierarki Kelas
+## Struktur Hierarki Kelas
 
 - `Orang` (Parent Class)
   - `Siswa` (Child Class)
@@ -21,9 +21,9 @@ Proyek ini dibangun untuk mempraktikkan konsep-konsep inti OOP:
     - `GuruBahasa`
 - `Sekolah` (Aggregator / System Manager)
 
-## 💻 Cara Menjalankan Program
+## Cara Menjalankan Program
 
 1. Pastikan Anda telah menginstal [.NET SDK](https://dotnet.microsoft.com/download) di sistem Anda.
 2. *Clone* repositori ini ke mesin lokal Anda:
    ```bash
-   git clone [https://github.com/](https://github.com/)[username-kamu]/[nama-repo-kamu].git
+   git clone https://github.com/mreiswy/pbo-module-task.git
