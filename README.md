@@ -13,6 +13,7 @@ Proyek ini dibangun untuk mempraktikkan konsep-konsep inti OOP:
 ## Struktur Hierarki Kelas
 <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/f54fd6f5-ef24-4a84-912a-c0db552ec276" />
 
+- `Sekolah` (Aggregator / System Manager)
 - `Orang` (Parent Class)
   - `Siswa` (Child Class)
     - `SiswaSD`
@@ -20,7 +21,6 @@ Proyek ini dibangun untuk mempraktikkan konsep-konsep inti OOP:
   - `Guru` (Child Class)
     - `GuruMatematika`
     - `GuruBahasa`
-- `Sekolah` (Aggregator / System Manager)
 
 ## Cara Menjalankan Program
 
