@@ -11,7 +11,7 @@ Proyek ini dibangun untuk mempraktikkan konsep-konsep inti OOP:
 * **Encapsulation (Enkapsulasi):** Penggunaan *access modifiers* secara ketat untuk melindungi data sensitif dan mengekspos fungsi hanya melalui *public methods*.
 
 ## Struktur Hierarki Kelas
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/f6e9fdab-a432-472d-b359-6894a4f815b9" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/f54fd6f5-ef24-4a84-912a-c0db552ec276" />
 
 - `Orang` (Parent Class)
   - `Siswa` (Child Class)
